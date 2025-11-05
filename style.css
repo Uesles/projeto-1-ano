@@ -10,5 +10,6 @@ body{
     border-style: double;
 }
 .cabeçalho-titulo{
-padding-top: 100%;
+padding-top: 10%;
+background-color: lightgray;
 }
