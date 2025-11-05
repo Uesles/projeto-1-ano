@@ -12,5 +12,6 @@ body{
 .cabeçalho-titulo{
 padding-top: 50px;
 background-color: lightgray;
-
+border-color: darkred;
+text-shadow: 20px;
 }
